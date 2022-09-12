@@ -28,11 +28,11 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 - 🌱 I’m currently learning FE Tech
 
 <!--백준티어-->
-
-#### 🎖️ Ranking
+<!--
+#### 🎖️ Baekjoon Online Judge Tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhui)](https://solved.ac/kimjinhui/)
-
+ -->
 <br />
 
 ## 💪Skills
